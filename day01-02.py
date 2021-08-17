@@ -1,14 +1,10 @@
-#加减乘除
+# 整型和浮点型，加减乘除
 
-a = 100
-b = 200
-c = 300
-a1 = a + b
-b1 = a - b
-c1 = a * b
-c2 = a / c
-
-print(a1)
-print(b1)
-print(c1)
-print(c2)
+a = 1
+b = 2
+c = 1.22
+d = 3.44
+print(a+b)
+print(c+d)
+print(a+c)
+print(int(a+c))

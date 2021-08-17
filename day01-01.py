@@ -1,6 +1,7 @@
-#输入输出
+# 输入输出
 
-print("hello world")
-
-a = input("请输入一个名字：")
+a = "你好"
 print(a)
+
+b = input("请输入你的名字：")
+print(b)
